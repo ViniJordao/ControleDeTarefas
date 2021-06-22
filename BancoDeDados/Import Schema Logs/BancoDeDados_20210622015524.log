@@ -1,0 +1,84 @@
+21/06/2021 22:55:24	This log contains information about the import schema operation into project 'BancoDeDados' on computer 'DESKTOP-LNNTR5D' by user 'vinic'.
+21/06/2021 22:55:24	Import of database schema has started.
+21/06/2021 22:55:30	Gathering database credentials
+21/06/2021 22:55:30	Gathering database options
+21/06/2021 22:55:30	Gathering users
+21/06/2021 22:55:30	Gathering roles
+21/06/2021 22:55:30	Gathering application roles
+21/06/2021 22:55:30	Gathering role memberships
+21/06/2021 22:55:30	Gathering filegroups
+21/06/2021 22:55:30	Gathering full-text catalogs
+21/06/2021 22:55:30	Gathering assemblies
+21/06/2021 22:55:30	Gathering certificates
+21/06/2021 22:55:30	Gathering asymmetric keys
+21/06/2021 22:55:30	Gathering symmetric keys
+21/06/2021 22:55:30	Gathering encrypted symmetric keys
+21/06/2021 22:55:30	Gathering schemas
+21/06/2021 22:55:30	Gathering XML schema collections
+21/06/2021 22:55:30	Gathering user-defined data types
+21/06/2021 22:55:30	Gathering user-defined types
+21/06/2021 22:55:30	Gathering table types
+21/06/2021 22:55:30	Gathering unique keys for table types
+21/06/2021 22:55:30	Gathering primary keys for table types
+21/06/2021 22:55:30	Gathering indexes for table types
+21/06/2021 22:55:30	Gathering check constraints for table types
+21/06/2021 22:55:30	Gathering default constraints for table types
+21/06/2021 22:55:30	Gathering partition functions
+21/06/2021 22:55:30	Gathering partition schemes
+21/06/2021 22:55:30	Gathering functions
+21/06/2021 22:55:30	Gathering encrypted functions
+21/06/2021 22:55:30	Gathering aggregates
+21/06/2021 22:55:30	Gathering procedures
+21/06/2021 22:55:30	Gathering encrypted procedures
+21/06/2021 22:55:30	Gathering tables
+21/06/2021 22:55:30	Gathering primary keys
+21/06/2021 22:55:30	Gathering unique constraints
+21/06/2021 22:55:30	Gathering foreign keys
+21/06/2021 22:55:30	Gathering default constraints
+21/06/2021 22:55:30	Gathering check constraints
+21/06/2021 22:55:30	Gathering views
+21/06/2021 22:55:30	Gathering encrypted views
+21/06/2021 22:55:30	Gathering indexes
+21/06/2021 22:55:30	Gathering statistics
+21/06/2021 22:55:30	Gathering full-text index stoplists
+21/06/2021 22:55:30	Gathering search property lists
+21/06/2021 22:55:30	Gathering search properties
+21/06/2021 22:55:30	Gathering full-text indexes
+21/06/2021 22:55:30	Gathering column store indexes
+21/06/2021 22:55:30	Gathering spatial indexes
+21/06/2021 22:55:30	Gathering XML indexes
+21/06/2021 22:55:30	Gathering Selective XML indexes
+21/06/2021 22:55:30	Gathering encrypted triggers
+21/06/2021 22:55:30	Gathering triggers
+21/06/2021 22:55:30	Gathering encrypted and clr ddl triggers
+21/06/2021 22:55:30	Gathering ddl triggers
+21/06/2021 22:55:30	Gathering synonyms
+21/06/2021 22:55:30	Gathering defaults
+21/06/2021 22:55:30	Gathering data constraint uddt bindings
+21/06/2021 22:55:30	Gathering rules
+21/06/2021 22:55:30	Gathering data constraint uddt bindings
+21/06/2021 22:55:30	Gathering message types
+21/06/2021 22:55:30	Gathering queues
+21/06/2021 22:55:30	Gathering contracts
+21/06/2021 22:55:30	Gathering services
+21/06/2021 22:55:30	Gathering event notifications
+21/06/2021 22:55:30	Gathering remote service bindings
+21/06/2021 22:55:30	Gathering broker priorities
+21/06/2021 22:55:30	Gathering signatures
+21/06/2021 22:55:30	Gathering data compression options
+21/06/2021 22:55:30	Gathering sequence types
+21/06/2021 22:55:30	Gathering security policies
+21/06/2021 22:55:30	Gather column encryption keys
+21/06/2021 22:55:30	Gathering column master keys
+21/06/2021 22:55:30	Gathering external data sources
+21/06/2021 22:55:30	Gathering external file formats
+21/06/2021 22:55:30	Gathering external tables
+21/06/2021 22:55:30	Gathering extended properties
+21/06/2021 22:55:30	Gathering credentials
+21/06/2021 22:55:30	Gathering logins
+21/06/2021 22:55:30	Gathering server audits
+21/06/2021 22:55:30	Scanning project for duplicate elements
+21/06/2021 22:55:30	Finished duplicate element processing
+21/06/2021 22:55:31	Finished importing database.
+21/06/2021 22:55:31	A summary of the import was saved to the following location: C:\Users\vinic\source\repos\BancoDeDados\Import Schema Logs\BancoDeDados_20210622015524.log
+21/06/2021 22:55:31	Click Finish to continue...

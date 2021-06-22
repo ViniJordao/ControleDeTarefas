@@ -1,0 +1,5 @@
+C:\Users\vinic\source\repos\BancoDeDados\bin\Debug\BancoDeDados.dacpac
+C:\Users\vinic\source\repos\BancoDeDados\bin\Debug\BancoDeDados.dll
+C:\Users\vinic\source\repos\BancoDeDados\bin\Debug\BancoDeDados.pdb
+C:\Users\vinic\source\repos\BancoDeDados\obj\Debug\BancoDeDados.dll
+C:\Users\vinic\source\repos\BancoDeDados\obj\Debug\BancoDeDados.pdb
